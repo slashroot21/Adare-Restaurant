@@ -1,5 +1,8 @@
 # Adare-Restaurant
 HTML CSS Tutorial project 1
+
+![](screenshots/ss1.png)
+
 ## Assets
 - background image
 - logo image
